@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi123456789" alt="khushi123456789" /></a> </p>
 
-- 🔭 I’m currently working on **IMPARTSHALA**
+- 🔭 I’m currently working on frontend part of a startup **IMPARTSHALA**
 
 - 🌱 I’m currently learning **Reactsjs**
 
 - 🤝 I’m looking for help with **gaining internship.**
 
-<img align="right" alt ="coding" width="400" src="https://dribbble.com/shots/15801037-Titanium-Card-Packaging-Design>
+
 
 - 📫 How to reach me **khushimtj12345@gmail.com**
 
