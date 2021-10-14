@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on frontend part of a startup **IMPARTSHALA**
 
-- 🌱 I’m currently learning **Reactsjs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 🤝 I’m looking for help with **gaining internship.**
 
